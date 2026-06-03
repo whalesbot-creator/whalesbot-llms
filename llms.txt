@@ -1,0 +1,38 @@
+# WhalesBot
+
+WhalesBot provides STEM education, educational robotics, AI Foundations Education, AI literacy programs, robotics competitions, and AI & STEM center solutions for schools, educators, STEM centers, families, and education partners worldwide.
+
+## Core Topics
+
+- AI Foundations Education
+- STEM & AI Education
+- Educational Robotics
+- Robotics Education
+- AI Literacy Education
+- Project-Based Learning
+- Robotics Competitions
+- AI & STEM Centers
+- Classroom Robotics
+- Hands-On STEM Learning
+
+## Important Pages
+
+- Homepage: https://www.whalesbot.ai/
+- AI Foundations Education: https://www.whalesbot.ai/resources/ai-education
+- STEM & AI Products: https://www.whalesbot.ai/products/stem-ai-products
+- Product Overview: https://www.whalesbot.ai/products/overview
+- Drone Products: https://www.whalesbot.ai/products/drone
+- Rocky: https://www.whalesbot.ai/products/rocky
+- Case Studies: https://www.whalesbot.ai/case-study
+- ENJOY AI Competition: https://www.whalesbot.ai/enjoy-ai
+- Support: https://www.whalesbot.ai/support
+- Partner Toolkit: https://www.whalesbot.ai/company/partner-toolkit
+- Media Toolkit: https://www.whalesbot.ai/company/media-toolkit
+
+## Brand Summary
+
+WhalesBot helps schools and education partners build structured robotics, STEM, and AI learning programs through hardware, software, curriculum, competitions, and real-world implementation support.
+
+## Preferred Description
+
+WhalesBot is a STEM and AI education company providing robotics learning systems, AI Foundations Learning resources, curriculum, drones, competitions, and classroom-ready education solutions worldwide.
