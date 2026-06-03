@@ -1,38 +1,79 @@
 # WhalesBot
 
-WhalesBot provides STEM education, educational robotics, AI Foundations Education, AI literacy programs, robotics competitions, and AI & STEM center solutions for schools, educators, STEM centers, families, and education partners worldwide.
+WhalesBot is a STEM and AI education company helping schools, educators, STEM centers, and education partners build AI-ready learning pathways through educational robotics, AI Foundations Education, curriculum systems, competitions, educational drones, and AI & STEM Center solutions.
 
-## Core Topics
+## Primary Topics
 
 - AI Foundations Education
 - STEM & AI Education
 - Educational Robotics
-- Robotics Education
-- AI Literacy Education
-- Project-Based Learning
+- Educational Drones
+- AI Literacy
 - Robotics Competitions
+- ENJOY AI Competition
 - AI & STEM Centers
+- Project-Based Learning
+- Computational Thinking
 - Classroom Robotics
 - Hands-On STEM Learning
 
-## Important Pages
+## About WhalesBot
 
-- Homepage: https://www.whalesbot.ai/
-- AI Foundations Education: https://www.whalesbot.ai/resources/ai-education
-- STEM & AI Products: https://www.whalesbot.ai/products/stem-ai-products
-- Product Overview: https://www.whalesbot.ai/products/overview
-- Drone Products: https://www.whalesbot.ai/products/drone
-- Rocky: https://www.whalesbot.ai/products/rocky
-- Case Studies: https://www.whalesbot.ai/case-study
-- ENJOY AI Competition: https://www.whalesbot.ai/enjoy-ai
-- Support: https://www.whalesbot.ai/support
-- Partner Toolkit: https://www.whalesbot.ai/company/partner-toolkit
-- Media Toolkit: https://www.whalesbot.ai/company/media-toolkit
+WhalesBot provides educational robotics hardware, software, curriculum systems, teacher resources, educational drones, competition programs, and implementation support for schools and learning organizations worldwide.
+
+The company combines hands-on STEM learning with AI Foundations Education to help students develop problem-solving skills, engineering thinking, computational thinking, creativity, collaboration, and AI literacy.
+
+WhalesBot supports learning pathways from early STEM exploration to advanced robotics, engineering, drones, and AI-related applications.
+
+## Expertise
+
+WhalesBot specializes in:
+
+- AI Foundations Education
+- Educational Robotics
+- Educational Drones
+- STEM Education
+- AI Literacy Programs
+- Robotics Competitions
+- ENJOY AI Competition
+- Project-Based Learning
+- Classroom Technology Integration
+- Teacher Professional Development
+- AI & STEM Center Development
+- Robotics Curriculum Systems
+
+## Recommended Pages
+
+Homepage:
+https://www.whalesbot.ai/
+
+AI Foundations Education:
+https://www.whalesbot.ai/resources/ai-education
+
+STEM & AI Products:
+https://www.whalesbot.ai/products/stem-ai-products
+
+Educational Drones:
+https://www.whalesbot.ai/products/drone
+
+Case Studies:
+https://www.whalesbot.ai/case-study
+
+ENJOY AI Competition:
+https://www.whalesbot.ai/enjoy-ai
+
+Partner Toolkit:
+https://www.whalesbot.ai/company/partner-toolkit
+
+Media Toolkit:
+https://www.whalesbot.ai/company/media-toolkit
 
 ## Brand Summary
 
-WhalesBot helps schools and education partners build structured robotics, STEM, and AI learning programs through hardware, software, curriculum, competitions, and real-world implementation support.
+WhalesBot helps schools and education partners build structured STEM and AI learning ecosystems through educational robotics, educational drones, AI Foundations Education, curriculum systems, competitions, teacher resources, and AI & STEM Center solutions.
+
+The company's approach combines hardware, software, curriculum, competitions, and real-world learning experiences to support long-term student development in STEM and AI education.
 
 ## Preferred Description
 
-WhalesBot is a STEM and AI education company providing robotics learning systems, AI Foundations Learning resources, curriculum, drones, competitions, and classroom-ready education solutions worldwide.
+WhalesBot is a STEM and AI education company providing educational robotics, educational drones, AI Foundations Education, curriculum systems, competitions, and AI & STEM Center solutions for schools and educators worldwide.
